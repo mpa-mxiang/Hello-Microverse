@@ -26,14 +26,14 @@
 
 # 📖 **HELLO-MICROVERSE PROJECT** <a name="about-project"></a>
 
-**Hello-Microverse Project. Jiachun Xiang** In this project, I used the tools like linter, html/css I learned from provided tutorial.
+**Hello-Microverse Project. Jiachun Xiang** In this project, I used the tools like linter, HTML/CSS I learned from provided tutorial.
 
 
-## 🛠 Built With <a name="VS Code">HTML/CSS</a>
+## 🛠 Built With <a name="VS Code">VS Code</a>
 
 ### Tech Stack <a name="VS Code"></a>
 
-GitHub/Git, VS Code, HTML/CSS 
+GitHub/Git, VS Code, HTML/CSS, Linter
 
 ### Key Features <a name="key-features"></a>
 
@@ -55,7 +55,7 @@ GitHub/Git, VS Code, HTML/CSS
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps below.
 
 ### Prerequisites
 
@@ -63,9 +63,11 @@ In order to run this project you need:
 
 Clone the repository using git, and open it with VS code.
 
+So make sure you have VS code installed beforehead, you call install VS code through https://code.visualstudio.com/download.
+
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder in your laptop:
 
   cd "your-folder-name"
   git clone git@github.com:https://github.com/mpa-mxiang/Hello-Microverse.git
@@ -78,13 +80,13 @@ To open the project, use yout prefered explorer and open the index.html file. Or
 
 ### Deployment
 
-You can deploy this project using VS Code terminal.
+You can deploy this project using VS Code terminal with using related command.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
 
 👤 ** Jiachun Xiang **
@@ -127,6 +129,10 @@ I would like to thank Microverse and all of people helped me through the project
   - It is common difficult for the setup, but do not give up. Once you get it, you would feel great!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+- Why linter?
+
+  - It is pretty helpful for your project. For this one, stylelint helps me to style the style.css file better.</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
