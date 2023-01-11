@@ -6,6 +6,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [Future Features](#future-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -25,7 +26,8 @@
 
 # 📖 **HELLO-MICROVERSE PROJECT** <a name="about-project"></a>
 
-**Hello-Microverse Project. Jiachun Xiang** In this project, I set up a "Hello-Microverse" repository. I applied the tools based on the tutorial provided.
+**Hello-Microverse Project. Jiachun Xiang** In this project, I used the tools like linter, html/css I learned from provided tutorial.
+
 
 ## 🛠 Built With <a name="VS Code">HTML/CSS</a>
 
@@ -36,6 +38,16 @@ GitHub/Git, VS Code, HTML/CSS
 ### Key Features <a name="key-features"></a>
 
 - HTML/CSS
+- Linter
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Future Features <a name="future-features"></a>
+
+- JavaScript
+- Header
+- Headline
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -49,24 +61,24 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Clone the repository using git, and open it with visual studio code.
+Clone the repository using git, and open it with VS code.
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-  cd "your-folder"
+  cd "your-folder-name"
   git clone git@github.com:https://github.com/mpa-mxiang/Hello-Microverse.git
 
 
 ### Usage
 
-To open the project, use yout prefered explorer and open the index.html file 
+To open the project, use yout prefered explorer and open the index.html file. Or, you can right click the index.html file to open in the live server with the localhost.
 
 
 ### Deployment
 
-You can deploy this project using visual studio.
+You can deploy this project using VS Code terminal.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,7 +98,9 @@ You can deploy this project using visual studio.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome! 
+
+If you like to contribute, report issues, or request feature(s), please contact me through one of the above media link:)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
