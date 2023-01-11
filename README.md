@@ -31,6 +31,8 @@
 
 ### Tech Stack <a name="VS Code"></a>
 
+GitHub/Git, VS Code, HTML/CSS 
+
 ### Key Features <a name="key-features"></a>
 
 - HTML/CSS
